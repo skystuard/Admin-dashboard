@@ -694,28 +694,30 @@ export const singleProduct = {
   },
   activities: [
     {
-      text: "John Doe purchased Playstation 5 Digital Edition",
+      text: "Ankit Kumar purchased Playstation 5 Digital Edition",
       time: "3 day ago",
     },
     {
-      text: "Jane Doe added Playstation 5 Digital Edition into their wishlist",
+      text: "Ankit Kumar added Playstation 5 Digital Edition into their wishlist",
       time: "1 week ago",
     },
     {
-      text: "Mike Doe purchased Playstation 5 Digital Edition",
+      text: "Ankit Kumar purchased Playstation 5 Digital Edition",
       time: "2 weeks ago",
     },
     {
-      text: "Anna Doe reviewed the product",
+      text: "Ankit Kumar reviewed the product",
       time: "1 month ago",
     },
     {
-      text: "Michael Doe added Playstation 5 Digital Edition into their wishlist",
+      text: "Aman Kulwal added Playstation 5 Digital Edition into their wishlist",
       time: "1 month ago",
     },
     {
-      text: "Helen Doe reviewed the product",
+      text: "Aman Kulwal reviewed the product",
       time: "2 months ago",
     },
   ],
 };
+
+
